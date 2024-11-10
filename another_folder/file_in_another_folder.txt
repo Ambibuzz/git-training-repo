@@ -5,6 +5,7 @@ Yet, her life was a stark contrast to her art, filled with the mundane routines 
 One day, as she was lost in a world of her own creation, a peculiar antique shop caught her eye.
 Its weathered facade and mysterious aura beckoned her inside. Within, she discovered a hidden room, a treasure trove of forgotten relics.
 Among the dusty artifacts, she found a peculiar hourglass, its sands shimmering with an ethereal glow.
+And here we added a new line in the development mode.
 
 Intrigued, Elara purchased the hourglass and brought it home.
 As she turned it, a soft, melodic tune filled the air, and a portal opened before her eyes.
